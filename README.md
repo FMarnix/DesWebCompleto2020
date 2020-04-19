@@ -8,33 +8,19 @@ Neste curso irei aprender e realizar 20 porjectos utilizando
 - Javascript
 - BootStrap4
 - ES6
--PHP7
--Programação orientada a objectos
--MySql
--PHP com PDO
--AJAX
--JQuery
--MVC
--APIs
--IONIC
--WordPress
+- PHP7
+- Programação orientada a objectos
+- MySql
+- PHP com PDO
+- AJAX
+- JQuery
+- MVC
+- APIs
+- IONIC
+- WordPress
 
 ENG/:
 Projects realized along the course [Desenvolvimento Web Completo 2020](https://www.udemy.com/course/web-completo/) from Udemy.
 Couse and lectures by Jamilton Damasceno and Jorge Sant Ana.
-In this course i will learn and realize 20 projects by using:
--HTML5;
--CSS3;
--Javascript;
--BootStrap4;
--ES6;
--PHP7;
--Object oriented programming;
--MySql;
--PHP with PDO;
--AJAX;
--JQuery;
--MVC;
--APIs;
--IONIC;
--WordPress
+In this course i will learn and realize 20 projects by using the technologies above.
+
